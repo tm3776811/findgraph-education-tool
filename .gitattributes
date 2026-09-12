@@ -1,0 +1,8 @@
+# Generated on 2026-11-10
+# Project-specific overrides
+public/** linguist-vendored
+* text=auto eol=lf
+* text=auto
+**/*.py linguist-detectable
+public/index.html linguist-vendored
+# eof ca4ef4d7
